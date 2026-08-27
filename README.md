@@ -1,6 +1,15 @@
 # Marketing Campaign Analysis
-A collection of Data Analytics projects completed during my Elevate Labs Data Analyst Internship, showcasing practical experience in Excel, SQL, Power BI, Python, and other data analytics tools.
+This project, Marketing Campaign Performance & ROI Analysis, explores a comprehensive dataset of over 10,000 digital advertising campaigns. The objective is to transform raw marketing data into actionable business insights by analyzing key performance indicators (KPIs)—such as impressions, click-through rates (CTR), conversion rates, campaign costs, and Return on Investment (ROI)—to help stakeholders optimize future marketing strategies and budget allocation.
 Author:- Bhanu Pratap
+
+## Why We Chose This Data
+High Business Relevance: Marketing analytics is one of the most in-demand domains for data analysts. Demonstrating proficiency in analyzing advertising ROI, customer acquisition costs, and channel efficiency directly aligns with real-world business needs.
+
+**Comprehensive Multi-Dimensional Metrics**: The dataset goes beyond simple numbers by tracking diverse metrics across multiple dimensions:
+**Engagement:** Impressions, Clicks, Click-Through Rate (CTR).
+**Conversion & Funnel**: Conversions, Conversion Rate, Customers Acquired.
+**Financials:** Campaign Cost, Revenue Generated, and ROI percentage.
+Demographics & Context: Marketing channels (Google Ads, Meta Ads, YouTube, etc.), target audiences, device types (Mobile, Desktop, Tablet), and geographic regions.
 
 **Project Overview**
 This project focuses on analyzing a comprehensive dataset of **10,000+ digital marketing campaigns** to evaluate performance, optimize budget allocation, and maximize Return on Investment (ROI). Built entirely using **Microsoft Excel**, the project utilizes advanced data cleaning, pivot tables, and multi-sheet aggregation to derive actionable business insights.
